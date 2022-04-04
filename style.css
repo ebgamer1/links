@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: "uni";
-    src: url(../fonts/uni-sans.heavy-caps.otf);
+    src: url(./fonts/uni-sans.heavy-caps.otf);
 }
 body{
     background: rgb(31, 31, 31);
